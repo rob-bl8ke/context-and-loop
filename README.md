@@ -6,4 +6,6 @@ Context & Loop is a living knowledge system and experimental laboratory for unde
 
 The project begins with ideas drawn from Interpreted Context Methodology and verification-driven agentic approaches, but is intended to evolve through study, experimentation, and practical use rather than remain tied to any single methodology.
 
-[Link to current ChatGPT conversation](https://chatgpt.com/c/6a83d851-169c-83ea-a2e1-8bcfa2df17b7)
+## References
+- [Inspired by...](https://www.youtube.com/watch?v=0-QDPnEIkvw) - Build a Self Improving Claude Knowledge Base
+- [Link to current ChatGPT conversation](https://chatgpt.com/c/6a83d851-169c-83ea-a2e1-8bcfa2df17b7)
